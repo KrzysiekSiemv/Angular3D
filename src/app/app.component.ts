@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular3D';
+  subtitle = 'No jakaś aplikacja';
+  author = 'Krzysztof Smaga';
 }
+
+/*
+  Wygeneruj 3 komponenty: home, users, blog
+  a następnie zdefiniuj routing na te 3
+  podstrony
+
+*/
